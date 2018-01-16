@@ -1,4 +1,4 @@
-
+/*! typo v1.0.0 | (c) 2018 @xuhen | github.com/xuhen/typo */
 
 (function (root, factory) {
   if (typeof define === 'function' && define.amd) {
